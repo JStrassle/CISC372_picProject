@@ -1,0 +1,9 @@
+Script started on Wed Apr 19 18:21:20 2023
+[jstrassl@r1n00 CISC372_picProject]$ srun ./image_openmp pic1.jpg edge
+Took 7 seconds
+[jstrassl@r1n00 CISC372_picProject]$ srun ./image_pthread pic1.jpg edge
+Took 6 seconds
+[jstrassl@r1n00 CISC372_picProject]$ exit
+exit
+
+Script done on Wed Apr 19 18:21:44 2023
